@@ -5,7 +5,7 @@ body, h1, h2, h3, p {
 }
 
 body {
-    font-family: 'Lobster', cursive;
+    font-family: 'Times New Roman';
     background: linear-gradient(45deg, #860038, #efba08);
     text-align: center;
     color: #75787B;

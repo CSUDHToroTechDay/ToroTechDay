@@ -67,6 +67,10 @@ h2 {
     color: #fff;
 }
 
+.event:hover p {
+    color: #fff;
+}
+
 .time {
     font-weight: bold;
     color: #efba08;
@@ -82,8 +86,4 @@ h2 {
 .details p {
     color: #75787B;
     font-style: italic;
-}
-
-.details:hover p {
-    color: #fff;
 }

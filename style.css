@@ -83,3 +83,7 @@ h2 {
     color: #75787B;
     font-style: italic;
 }
+
+.details:hover p {
+    color: #fff;
+}
